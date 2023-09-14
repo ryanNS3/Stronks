@@ -9,7 +9,7 @@
 
     ◻Consumir uma API
     ◻Responsividade
-    ◻Consultar e apresentar ao usuário
+    ◻Consultar dados e apresentar ao usuário
     
 
 
