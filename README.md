@@ -1,9 +1,9 @@
 <img src="./src/components/header/img/logo.png">
 
-<h1>📈 Stronks-Consumindo API 📉/<h1>
+<h1>📈 Stronks-Consumindo API 📉<h1>
 
 <h1>📎Acesso o site<h1>
-<a href="/">/<a>
+<a href="/"><a>
 
 <h1>📌Objetivos<h1>
 <ul>
