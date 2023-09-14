@@ -7,9 +7,9 @@
 
 <h1>📌Objetivos<h1>
 
-    <li>Consumir uma API<li>
-    <li>Responsividade<li>
-    <li>Consultar e apresentar ao usuário<li>
+    ◻Consumir uma API
+    ◻Responsividade
+    ◻Consultar e apresentar ao usuário
     
 
 
