@@ -1,0 +1,31 @@
+
+ .box-card{
+    display: flex;
+    margin: 100px 0;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+  
+}
+.box-card h1{
+    width: 100%;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    height: 500px;
+    width: 250px; 
+    padding: 1rem;
+    background-color: #f7f7f7 !important;
+    margin-bottom: 5vh;
+}
+
+.list-group li{
+    background-color: #f7f7f7;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
