@@ -1,4 +1,4 @@
-<img src="/"/>
+<img src="./src/components/header/img/logo.png">
 
 # <h1>aaaaa/<h1>									Stronks-consumindo API
 
