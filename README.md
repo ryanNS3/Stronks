@@ -19,6 +19,12 @@
 <h1>
 
 
+<h1 style="text-align: center">
+    🌍API🌍
+    <p>A api que utlizamos é o <a href="https://brapi.dev/">brapi</a>, a principal funcionalidade dessa api é devolver os dados de ações empresariais como <strong>Cotação atual,valorização do dia etc<strong>   <p>
+<h1>
+
+
 
 ### Deployment
 
