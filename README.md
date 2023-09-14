@@ -10,7 +10,7 @@
     <li>Consumir uma API<li>
     <li>Responsividade<li>
     <li>Consultar e apresentar ao usuário<li>
-    <li><li>
+    
 <ul>
 
 <h1>
