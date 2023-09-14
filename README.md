@@ -2,7 +2,7 @@
 
 <h1>📈 Stronks-Consumindo API 📉/<h1>
 
-<h1>📎Acesso o site<h1>
+<h1>📎Acesse o site<h1>
 <a href="/"> link/<a>
 
 <h1>📌Objetivos<h1>
