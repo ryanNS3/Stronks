@@ -1,3 +1,5 @@
+<img src="/"/>
+
 # <h1>aaaaa/<h1>									Stronks-consumindo API
 
 
