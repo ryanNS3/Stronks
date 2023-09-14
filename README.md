@@ -1,6 +1,16 @@
 <img src="./src/components/header/img/logo.png">
 
-# <h1>aaaaa/<h1>									Stronks-consumindo API
+<h1>📈 Stronks-Consumindo API 📉/<h1>
+
+<h1>📎Acesso o site<h1>
+<a href="/">/<a>
+
+<h1>📌Objetivos<h1>
+<ul>
+    <li>Consumir uma API/<li>
+    <li>Responsividade/<li>
+/<ul>
+
 
 
 ### `npm run eject`
