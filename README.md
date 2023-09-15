@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">📎Acesse o site: <a href="https://stronkss.netlify.app/"> link<a>
+
 
 <h1>
 
@@ -57,6 +57,8 @@ https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7d
 <h2>
     <img src="./src/imgs/tutorial-8.PNG">
 <h2>Agora é só passar para o código, se tiver alguma dúvida ou curiosidade de como consumir a API, fique a vontade para usar o nosso código como referência😁.<h2>
+
+<h1 align="center">📎Acesse o site: <a href="https://stronkss.netlify.app/"> link<a>
 
 <h2 align="center">💻 TECNOLOGIAS UTILIZADAS:
    
