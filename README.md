@@ -1,4 +1,4 @@
-<h1>📈 Stronks-Consumindo API 📉/<h1>
+<h1>📈 Stonks-Consumindo API 📉/<h1>
 
 <h1>📎Acesse o site<h1>
 <a href="/"> link<a>
