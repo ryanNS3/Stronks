@@ -29,10 +29,9 @@
 
 <h2>
       2. Em docs, escolha umas das três opções disponiveis para consulta
+      <img src="./src/imgs/tutorial-2.PNG">
     
 <h2>
-
-<img src="./src/imgs/tutorial-2.PNG">
     <img src="./src/imgs/tutorial-3.PNG">
     <img src="./src/imgs/tutorial-3.PNG">
     <img src="./src/imgs/tutorial-4.PNG">
