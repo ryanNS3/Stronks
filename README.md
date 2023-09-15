@@ -1,5 +1,5 @@
 <h1 align="center">📈 Stonks-Consumindo API 📉<h1>
-![image](https://github.com/ryanNS3/Stronks/assets/131711415/854b7a4a-ef46-4923-bff2-269a65a68a4a)
+
 
 <h1 align="center">📎Acesse o site: <a href="https://stronkss.netlify.app/"> link<a>
 <h1>
@@ -29,7 +29,7 @@
     <p align="justify"><a href="https://getbootstrap.com/">Bootstrap: </a> Biblioteca de componentes JavaScript para criar interfaces de usuário responsivas.</p>
     <p align="justify"><a href="https://www.figma.com/">Figma:</a> Site para prototipação da aplicação web</p>
 
-
+![image](https://github.com/ryanNS3/Stronks/assets/131711415/854b7a4a-ef46-4923-bff2-269a65a68a4a)
     
 
 
