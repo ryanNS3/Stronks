@@ -10,6 +10,7 @@
     ◻Responsividade
     ◻Consultar dados e apresentar ao usuário
     ◻Interface limpa e intuitiva
+    ◻Gráfico
     
 
 
