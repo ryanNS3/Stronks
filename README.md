@@ -18,3 +18,14 @@
     <p>
         
 <h1>
+
+<h1 align="center">
+    💻 TECNOLOGIAS UTILIZADAS:
+    <p><a href="https://html.com/">HTML5:</a> Linguagem de marcação para estruturar e apresentar o conteúdo do site.
+    <a href="https://www.css3.com/">CSS3:</a> Folhas de estilo para estilizar e melhorar a aparência do site.
+    <a href="https://www.javascript.com/">JavaScript:</a> Linguagem de programação para adicionar interatividade e funcionalidades avançadas ao site.
+    <a href="https://react.dev/">React js:</a> biblioteca JavaScript para criar interfaces de usuário. Possui componentes reutilizáveis que permite aos           desenvolvedores criar aplicativos web dinâmicos e interativos. 
+    <a href="https://getbootstrap.com/">Bootstrap: </a> Biblioteca de componentes JavaScript para criar interfaces de usuário responsivas.
+    <a href="https://www.figma.com/">Figma:</a> Site para prototipação da aplicação web
+    <p>
+<h1>
