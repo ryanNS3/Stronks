@@ -24,7 +24,7 @@
 
 <h2>
     1. No site da api, clique em docs no canto superior direito
-    <img src="./src/imgs/tutorial-1.PNG">
+   > <img src="./src/imgs/tutorial-1.PNG">
 <h2>
 
 <h2>
