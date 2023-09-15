@@ -65,7 +65,8 @@ https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7d
     <p align="justify"><a href="https://react.dev/">React js:</a> biblioteca JavaScript para criar interfaces de usuário. Possui componentes reutilizáveis que permite aos           desenvolvedores criar aplicativos web dinâmicos e interativos.</p> 
     <p align="justify"><a href="https://getbootstrap.com/">Bootstrap: </a> Biblioteca de componentes JavaScript para criar interfaces de usuário responsivas.</p>
     <p align="justify"><a href="https://www.figma.com/">Figma:</a> Site para prototipação da aplicação web</p>
-    
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     
 ![image](https://github.com/ryanNS3/Stronks/assets/131711415/854b7a4a-ef46-4923-bff2-269a65a68a4a)
