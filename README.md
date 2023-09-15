@@ -23,37 +23,37 @@
 <h1>
 
 <h2>
-    1. No site da api, clique em docs no canto superior direito
+    1. No site da api, clique em docs no canto superior direito.
 <h2>
     <img src="./src/imgs/tutorial-1.PNG">
 
 <h2>
-      2. Em docs, escolha umas das três opções disponiveis para consulta
+      2. Em docs, escolha umas das três opções disponiveis para consulta.
 <h2>
     <img src="./src/imgs/tutorial-2.PNG">
 
 <h2>
-    3. Clique em "try it out" para obter o link experimental
+    3. Clique em "try it out" para obter o link experimental.
 <h2>
     <img src="./src/imgs/tutorial-3.PNG">
 
 <h2>
-    4. Adicione o ticker(nome da bolsa de valores) 
+    4. Adicione o ticker(nome da bolsa de valores).
 <h2>
     <img src="./src/imgs/tutorial-4.PNG">
 <h2>
-    5. Em seguida click em "Execute" para gerar o link  
+    5. Em seguida click em "Execute" para gerar o link.
 <h2>
       <img src="./src/imgs/tutorial-5.PNG">
 <h2>
-    6. Verifique se a requisição funcionou
+    6. Verifique se a requisição funcionou.
 <h2>
     <img src="./src/imgs/tutorial-6.PNG">
 <h2>
     7. Copie o link e coloque o seu <a href="https://brapi.dev/dashboard">Token<a> após o ponto de interrogação.
 <h2>
     <img src="./src/imgs/tutorial-8.PNG">
-<h2>Agora é só passar para o código, se tiver alguma dúvida ou curiosidade de como consumir a API, fique a vontade para usar o nosso código como referência😁<h2>
+<h2>Agora é só passar para o código, se tiver alguma dúvida ou curiosidade de como consumir a API, fique a vontade para usar o nosso código como referência😁.<h2>
 
 <h1 align="center">💻 TECNOLOGIAS UTILIZADAS:<h1>
     <p align="justify"><a href="https://html.com/">HTML5:</a> Linguagem de marcação para estruturar e apresentar o conteúdo do site.</p>
