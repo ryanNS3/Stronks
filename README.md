@@ -1,4 +1,4 @@
-<img src="./src/components/header/img/logo.png">
+<img src="./src/components/header/img/logo.png" align = "center">
 
 <h1>📈 Stronks-Consumindo API 📉/<h1>
 
