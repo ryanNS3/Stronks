@@ -34,9 +34,16 @@
 
 <h2>
     3. Clique em try it out para obter o link experimental
-      <img src="./src/imgs/tutorial-3.PNG">
+<h2>
+    <img src="./src/imgs/tutorial-3.PNG">
+
+<h2>
+    4. Adicione o ticker(nome da bolsa de valores) 
 <h2>
     <img src="./src/imgs/tutorial-4.PNG">
+<h2>
+    5. Em seguida click em "Execute" para gerar o link  
+<h2>
     <img src="./src/imgs/tutorial-5.PNG">
     <img src="./src/imgs/tutorial-6.PNG">
     <img src="./src/imgs/tutorial-8.PNG">
