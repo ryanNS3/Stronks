@@ -3,13 +3,11 @@
 
 
 
-https://github.com/ryanNS3/Stronks/assets/131712164/2b7ad2bb-6881-41ee-8d10-5f75c4dcd492
-
-
-
-
-
 <h1 align="center">📎Acesse o site: <a href="https://stronkss.netlify.app/"> link<a>
+
+https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7dbbfc1d49
+
+
 <h1>
 
 <h1>📌Objetivos<h1>
