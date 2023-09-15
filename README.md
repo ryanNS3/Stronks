@@ -22,11 +22,19 @@
         
 <h1>
 
-<ol>
-            <li>No site, click em "docs"
-            <img src="./src/imgs/tutorial-1.PNG">
-            <li>
-<ol>       
+<h3>
+    1.No site da api, clique em docs no canto superior direito
+    <img src="./src/imgs/tutorial-1.PNG">/>
+    2. Em docs, escolha umas das três opções disponiveis para consulta
+    <img src="./src/imgs/tutorial-2.PNG">/>
+    <img src="./src/imgs/tutorial-3.PNG">/>
+    <img src="./src/imgs/tutorial-3.PNG">/>
+    <img src="./src/imgs/tutorial-4.PNG">/>
+    <img src="./src/imgs/tutorial-5.PNG">/>
+    <img src="./src/imgs/tutorial-6.PNG">/>
+    <img src="./src/imgs/tutorial-8.PNG">/>
+   
+<h3>
 
 <h1 align="center">💻 TECNOLOGIAS UTILIZADAS:<h1>
     <p align="justify"><a href="https://html.com/">HTML5:</a> Linguagem de marcação para estruturar e apresentar o conteúdo do site.</p>
