@@ -13,7 +13,7 @@
 
 <h1 align="center">
     🌍API🌍
-    <p>A api que utlizamos é o <a href="https://brapi.dev/">brapi</a>, a brapi é uma API open source que fornece dados do mercado financeiro brasileiro, incluindo <p color="green"> cotações de ações, criptomoedas, moedas e inflação<p></p>. A API é gratuita para uso e não possui limitações em termos de uso.
+    <p>A api que utlizamos é o <a href="https://brapi.dev/">brapi</a>, a brapi é uma API open source que fornece dados do mercado financeiro brasileiro, incluindo <p text="green"> cotações de ações, criptomoedas, moedas e inflação<p></p>. A API é gratuita para uso e não possui limitações em termos de uso.
     Veja a baixo um mini tutorial:
     <p>
         
