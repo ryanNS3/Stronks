@@ -67,6 +67,7 @@ https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7d
     <p align="justify"><a href="https://www.figma.com/">Figma:</a> Site para prototipação da aplicação web</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     
 ![image](https://github.com/ryanNS3/Stronks/assets/131711415/854b7a4a-ef46-4923-bff2-269a65a68a4a)
