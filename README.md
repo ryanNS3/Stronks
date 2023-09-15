@@ -50,7 +50,7 @@
 <h2>
     <img src="./src/imgs/tutorial-6.PNG">
 <h2>
-    7. Copie o link 
+    7. Copie o link e coloque o seu <a href="https://brapi.dev/dashboard">Token</a> <
 <h2>
     <img src="./src/imgs/tutorial-8.PNG">
 
