@@ -31,9 +31,13 @@
 <h2>
       2. Em docs, escolha umas das três opções disponiveis para consulta
       <img src="./src/imgs/tutorial-2.PNG">
-    
 <h2>
-    <img src="./src/imgs/tutorial-3.PNG">
+
+<h2>
+    3. Clique em try it out para obter o link experimental
+      <img src="./src/imgs/tutorial-3.PNG">
+<h2>
+  
     <img src="./src/imgs/tutorial-4.PNG">
     <img src="./src/imgs/tutorial-5.PNG">
     <img src="./src/imgs/tutorial-6.PNG">
