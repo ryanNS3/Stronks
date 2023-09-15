@@ -58,7 +58,7 @@ https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7d
     <img src="./src/imgs/tutorial-8.PNG">
 <h2>Agora é só passar para o código, se tiver alguma dúvida ou curiosidade de como consumir a API, fique a vontade para usar o nosso código como referência😁.<h2>
 
-<h1 align="center">💻 TECNOLOGIAS UTILIZADAS:<h1>
+<h2 align="center">💻 TECNOLOGIAS UTILIZADAS:<h2>
     <p align="justify"><a href="https://html.com/">HTML5:</a> Linguagem de marcação para estruturar e apresentar o conteúdo do site.</p>
     <p align="justify"><a href="https://www.css3.com/">CSS3:</a> Folhas de estilo para estilizar e melhorar a aparência do site.</p>
     <p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> Linguagem de programação para adicionar interatividade e funcionalidades avançadas ao site.</p>
