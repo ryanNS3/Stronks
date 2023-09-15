@@ -1,10 +1,5 @@
 <h1 align="center">📈 Stonks-Consumindo API 📉<h1>
 
-
-
-
-
-
 <h1>
 
 <h1>📌Objetivos<h1>
