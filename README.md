@@ -24,7 +24,7 @@
 
 <ol>
             <li>No site, click em "docs"
-            <img src="./src/imgs/tutorial-1.PNG">/>
+            <img src="./src/imgs/tutorial-1.PNG">
             <li>
 <ol>       
 
