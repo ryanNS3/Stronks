@@ -50,7 +50,7 @@
 <h2>
     <img src="./src/imgs/tutorial-6.PNG">
 <h2>
-    7. Copie o link e coloque o seu <a href="https://brapi.dev/dashboard">Token<a> após o ponto de interrogação <
+    7. Copie o link e coloque o seu <a href="https://brapi.dev/dashboard">Token<a> após o ponto de interrogação.
 <h2>
     <img src="./src/imgs/tutorial-8.PNG">
 <h2>Agora é só passar para o código, se tiver alguma dúvida ou curiosidade de como consumir a API, fique a vontade para usar o nosso código como referência😁<h2>
