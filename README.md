@@ -2,7 +2,7 @@
 
 
 
-https://github.com/ryanNS3/Stronks/assets/131712164/17a873ca-7330-4aa1-9e48-053a8610fd64
+
 
 
 <h1 align="center">📎Acesse o site: <a href="https://stronkss.netlify.app/"> link<a>
