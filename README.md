@@ -26,6 +26,9 @@
     <p align="justify"><a href="https://react.dev/">React js:</a> biblioteca JavaScript para criar interfaces de usuário. Possui componentes reutilizáveis que permite aos           desenvolvedores criar aplicativos web dinâmicos e interativos.</p> 
     <p align="justify"><a href="https://getbootstrap.com/">Bootstrap: </a> Biblioteca de componentes JavaScript para criar interfaces de usuário responsivas.</p>
     <p align="justify"><a href="https://www.figma.com/">Figma:</a> Site para prototipação da aplicação web</p>
+
+
     
-![image](https://github.com/ryanNS3/Stronks/assets/131711415/1356d911-aab1-4d46-83ee-55bec6788627)
+![image](https://github.com/ryanNS3/Stronks/assets/131711415/854b7a4a-ef46-4923-bff2-269a65a68a4a)
+
 
