@@ -23,7 +23,7 @@
 <h1>
 
 <h3>
-    1.No site da api, clique em docs no canto superior direito
+    1. No site da api, clique em docs no canto superior direito
     <img src="./src/imgs/tutorial-1.PNG">/>
     2. Em docs, escolha umas das três opções disponiveis para consulta
     <img src="./src/imgs/tutorial-2.PNG">/>
