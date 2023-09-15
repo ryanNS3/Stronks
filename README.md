@@ -50,9 +50,10 @@
 <h2>
     <img src="./src/imgs/tutorial-6.PNG">
 <h2>
-    7. Copie o link e coloque o seu <a href="https://brapi.dev/dashboard">Token</a> <
+    7. Copie o link e coloque o seu <a href="https://brapi.dev/dashboard">Token<a> após o ponto de interrogação <
 <h2>
     <img src="./src/imgs/tutorial-8.PNG">
+<h2>Agora é só passar para o código, se tiver dúvidas ou curiosidade de como consumir a API, fique a vontade para usar o nosso código como referencia😁<h2>
 
 <h1 align="center">💻 TECNOLOGIAS UTILIZADAS:<h1>
     <p align="justify"><a href="https://html.com/">HTML5:</a> Linguagem de marcação para estruturar e apresentar o conteúdo do site.</p>
