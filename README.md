@@ -8,6 +8,7 @@
     ◻Consumir uma API
     ◻Responsividade
     ◻Consultar dados e apresentar ao usuário
+    ◻Interface limpa e intuitiva
     
 
 
