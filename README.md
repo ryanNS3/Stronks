@@ -1,7 +1,7 @@
 <h1 align="center">📈 Stonks-Consumindo API 📉<h1>
 
 
-https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7dbbfc1d49
+
 
 <h1 align="center">📎Acesse o site: <a href="https://stronkss.netlify.app/"> link<a>
 
@@ -15,7 +15,7 @@ https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7d
     ◻Interface limpa e intuitiva
     ◻Gráfico
     
-
+https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7dbbfc1d49
 
 <h1 align="center">
     🌍API🌍
