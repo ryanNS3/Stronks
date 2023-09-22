@@ -1,7 +1,9 @@
-<h1 align="center">📈 Stonks-Consumindo API 📉<h1>
+<h1 align="center">📈 Stonks-Consumindo API 📉
+<h1>
 
 
 https://github.com/ryanNS3/Stronks/assets/131712164/2c238023-fa07-4997-87b4-7406adfdb4c2
+
 
 
 <h1>📌Objetivos<h1>
