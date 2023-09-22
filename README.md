@@ -2,7 +2,7 @@
 
 <h1>
 
-https://github.com/ryanNS3/Stronks/assets/131712164/ca374d29-05b1-4fdf-a8e1-de7dbbfc1d49
+https://github.com/ryanNS3/Stronks/assets/131712164/2c238023-fa07-4997-87b4-7406adfdb4c2
 
 
 <h1>📌Objetivos<h1>
